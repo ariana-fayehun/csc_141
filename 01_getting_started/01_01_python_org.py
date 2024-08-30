@@ -1,5 +1,4 @@
 '''
-
 The online documentation can be used to learn and check your code tomake sure that you are doing
 everything right. It is the first thing I should check for definitive information about what I want to 
 code.
@@ -9,5 +8,4 @@ Python Cookbook can show common recipes and patterns that programmers often use 
 
 All of the above mentioned resources, along with many other resources, can be used to help me code 
 effectively.
-
 '''

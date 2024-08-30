@@ -1,5 +1,4 @@
 '''
-
 I don't have much programming experience. I used Unity a little but stopped because I didn't know how to
 code in the required language.
 
@@ -23,5 +22,4 @@ I started out with visual novels because they are the easiest kind of games to m
 with my prior experience with drawing and writing. But I believe my skills are beyond that now
 as I am bored of visual novels. I need something more challenging, so I'm hoping to move on to
 some short RPGs.
-
 '''
