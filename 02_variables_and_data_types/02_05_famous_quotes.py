@@ -1,0 +1,1 @@
+print('Michael Jackson once said. "If you want to make the world a better place, take a look at yourself, and make a change."')
