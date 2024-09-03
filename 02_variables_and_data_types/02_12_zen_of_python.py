@@ -1,0 +1,1 @@
+# I read through "The Zen of Python" and learned that my code should be simple and easy to read
