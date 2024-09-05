@@ -34,6 +34,12 @@ print(motorcycles)
 del motorcycles[3]
 print(motorcycles)
 
-popped_motorcycle = motorcycles.pop()
+# popped_motorcycle = motorcycles.pop()
+# print(motorcycles)
+# print(popped_motorcycle)
+
+# popped_motorcycle = motorcycles.pop(0)
+# print(popped_motorcycle)
+
+motorcycles.remove('nothing')
 print(motorcycles)
-print(popped_motorcycle)
