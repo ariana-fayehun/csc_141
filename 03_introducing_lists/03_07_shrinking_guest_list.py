@@ -26,3 +26,18 @@ print(f"Hello, {guest_list[2]}! You're invited to dinner!")
 print(f"Hello, {guest_list[3]}! You're invited to dinner!")
 print(f"Hello, {guest_list[4]}! You're invited to dinner!")
 print(f"Hello, {guest_list[5]}! You're invited to dinner!")
+
+print("I'm sorry everyone, but my new dinner time won't arrive in time. Unfortunately, I can only invite 2 people now.")
+
+print(f"I'm sorry, {guest_list.pop(0)}, but I can't invite you to dinner.")
+print(f"I'm sorry, {guest_list.pop(0)}, but I can't invite you to dinner.")
+print(f"I'm sorry, {guest_list.pop(0)}, but I can't invite you to dinner.")
+print(f"I'm sorry, {guest_list.pop(0)}, but I can't invite you to dinner.")
+
+print(f"Hello, {guest_list[0]}! You're STILL invited to dinner!")
+print(f"Hello, {guest_list[1]}! You're STILL invited to dinner!")
+
+del guest_list[0]
+del guest_list[0]
+
+print(guest_list)
