@@ -1,3 +1,6 @@
+# I applied what I learned in the text to figure out how to complete this 
+# assignment
+
 # This variable defines the variable 'pasta'
 pasta = 'ramen'
 

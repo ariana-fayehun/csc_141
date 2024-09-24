@@ -1,5 +1,10 @@
+# I applied what I learned in the text to figure out how to complete this 
+# assignment
+
+# Defines age
 age = 18
 
+# Prints a specialized message depending on how big the variable 'age' is
 if age < 2:
     print("You are a baby.")
 elif (age >= 2) and (age < 4):

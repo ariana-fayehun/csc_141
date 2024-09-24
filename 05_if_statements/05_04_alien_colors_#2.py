@@ -1,3 +1,7 @@
+# I applied what I learned in the text to figure out how to complete this 
+# assignment
+
+# Defines alien color
 alien_color = 'green'
 
 # Checks whether the alien's color is green. If not, it prints a different

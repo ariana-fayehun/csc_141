@@ -1,3 +1,6 @@
+# I followed the examples in the text to figure out how to complete this 
+# assignment
+
 # Defines alien color
 alien_color = 'green'
 
