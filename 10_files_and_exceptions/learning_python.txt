@@ -1,0 +1,5 @@
+In python you can loop through a list.
+In python you can make a dictionary.
+In python you can define a variable.
+In python you can read a text file.
+In python you can convert a string to an integer.
